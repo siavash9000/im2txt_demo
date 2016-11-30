@@ -33,5 +33,5 @@ make run
 ```
 #####get caption for image
 ```
-./process_image imgs/bikes.jpg
+./process_image.sh imgs/bikes.jpg
 ```
