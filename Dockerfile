@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:0.12.1-gpu
 WORKDIR /root
 RUN add-apt-repository ppa:webupd8team/java && apt-get update
 RUN echo debconf shared/accepted-oracle-license-v1-1 select true | sudo debconf-set-selections && echo debconf shared/accepted-oracle-license-v1-1 seen true | sudo debconf-set-selections
