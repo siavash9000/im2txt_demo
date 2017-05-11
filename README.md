@@ -5,6 +5,13 @@ This repo contains a copy of im2txt (https://github.com/tensorflow/models/tree/m
 a suitable docker image, pretrained models (https://github.com/tensorflow/models/issues/466) and 
 some trivial shell scripts for convenience.
 
+### Limitations:
+1. The command "git lfs pull" might respond with errors, due to the limited GitHub data quoata. 
+  In this case you can 
+  - wait until next month and hope you can perform "git lfs pull" before the data limit is reached OR
+  - use the above link to the pretrained models and download them manually
+2. The tensorflow version is fixed to an old one (0.12). Feel free to update and create a pull request! Thanks in Advance for your help!
+
 ### Getting started:
 
 #### Install docker (skip if already installed)
