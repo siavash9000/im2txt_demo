@@ -7,7 +7,7 @@ some trivial shell scripts for convenience.
 
 ### Getting started:
 
-#### Install docker (skipp if already installed)
+#### Install docker (skip if already installed)
 https://docs.docker.com/engine/installation/
 
 #### Clone this repo and pull large files (pretrained models):
@@ -27,7 +27,7 @@ make build
 make run
 ```
 
-##### build run_inference (must be perfromed only once)
+##### build run_inference (must be performed only once)
 ```
 ./build_inference.sh
 ```
