@@ -13,6 +13,7 @@ https://docs.docker.com/engine/installation/
 #### Clone this repo and pull large files (pretrained models):
 ```
 git clone git@github.com:siavash9000/im2txt_demo.git
+cd im2txt_demo
 git lfs pull
 ```
 
