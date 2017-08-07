@@ -19,6 +19,9 @@ some trivial shell scripts for convenience.
 #### Install docker (skip if already installed)
 https://docs.docker.com/engine/installation/
 
+#### Install git lfs (skip if already installed)
+https://help.github.com/articles/installing-git-large-file-storage/
+
 #### Clone this repo and pull large files (pretrained models):
 ```
 git clone git@github.com:siavash9000/im2txt_demo.git
