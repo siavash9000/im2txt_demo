@@ -6,7 +6,10 @@ a suitable docker image, pretrained models (https://github.com/tensorflow/models
 some trivial shell scripts for convenience.
 
 ### Limitations:
-* The command "git lfs pull" might respond with errors, due to the limited GitHub data quota. 
+* The command "git lfs pull" might respond with errors, due to the limited GitHub data quota:  
+```                                                                                                                           
+batch response: This repository is over its data quota. Purchase more data packs to restore access. 
+```
   In this case you can 
   - wait until next month and hope you can perform "git lfs pull" before the data limit is reached OR
   - use the following links to the pretrained models and download them manually:
