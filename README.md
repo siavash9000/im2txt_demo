@@ -24,7 +24,7 @@ https://help.github.com/articles/installing-git-large-file-storage/
 
 #### Clone this repo and pull large files (pretrained models):
 ```
-git clone git@github.com:siavash9000/im2txt_demo.git
+git clone https://github.com/siavash9000/im2txt_demo.git
 cd im2txt_demo
 git lfs pull
 ```
