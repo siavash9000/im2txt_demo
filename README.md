@@ -15,7 +15,8 @@ batch response: This repository is over its data quota. Purchase more data packs
   - use the following links to the pretrained models and download them manually:
      https://drive.google.com/file/d/0Bw6m_66JSYLlRFVKQ2tGcUJaWjA/view
   - Copy the file model.ckpt-2000000 to the folder im2txt_pretrained. It should have a size of 143 mb.
-* The tensorflow version is fixed to an old one (0.12). Feel free to update and create a pull request! Thanks in Advance for your help!
+
+The tensorflow version is fixed to an old one (0.12). Feel free to update and create a pull request! Thanks in Advance for your help!
 
 ### Getting started:
 
