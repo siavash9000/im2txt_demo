@@ -1,0 +1,6 @@
+.idea
+.bash_history
+.cache/
+.keras/
+.oracle_jre_usage/
+im2txt_pretrained/model.ckpt-2000000
