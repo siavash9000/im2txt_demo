@@ -44,7 +44,7 @@ make build
 make run
 ```
 
-##### build run_inference (must be performed only once)
+##### run build_inference to prepare inference step (must be performed only once)
 ```
 ./build_inference.sh
 ```
